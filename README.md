@@ -6,6 +6,8 @@
 
 在VS Code中下载[Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)插件，直接打开Slide.md文件进行编辑即可。另外，除VS Code以外的软件如Typora均不支持Marp，因此最好还是坚持使用VS Code。
 
+<img align="right" alt="img" src="https://github.com/Han-0107/Graphs/blob/master/Marp.png" width="50%" height="auto" />
+
 ## 关于Markdown语法
 
 推荐一波Quick Reference的[Markdown参考](https://quickref.cn/docs/markdown.html)。Markdown上手很快，最吸引我的功能还是对数学公式的支持。
